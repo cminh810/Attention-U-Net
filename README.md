@@ -58,4 +58,9 @@ Implementation of Attention U-Net for semantic segmentation.
   <em> Segmented output </em>
 </p>
 
+## **References**
 
+- Attention U-Net paper: https://arxiv.org/abs/1804.03999
+- Modern Computer Vision using PyTorch: https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E
+- Focal loss: https://arxiv.org/abs/1708.02002
+- Tversky loss: https://arxiv.org/abs/1706.05721
